@@ -1,0 +1,10 @@
+D:\Lasalle College\PunchInOutApp\PunchInOutApp\bin\Debug\PunchInOutApp.exe.config
+D:\Lasalle College\PunchInOutApp\PunchInOutApp\bin\Debug\PunchInOutApp.exe
+D:\Lasalle College\PunchInOutApp\PunchInOutApp\bin\Debug\PunchInOutApp.pdb
+D:\Lasalle College\PunchInOutApp\PunchInOutApp\obj\Debug\PunchInOutApp.csproj.AssemblyReference.cache
+D:\Lasalle College\PunchInOutApp\PunchInOutApp\obj\Debug\PunchInOutApp.Properties.Resources.resources
+D:\Lasalle College\PunchInOutApp\PunchInOutApp\obj\Debug\PunchInOutApp.csproj.GenerateResource.cache
+D:\Lasalle College\PunchInOutApp\PunchInOutApp\obj\Debug\PunchInOutApp.csproj.CoreCompileInputs.cache
+D:\Lasalle College\PunchInOutApp\PunchInOutApp\obj\Debug\PunchInOutApp.exe
+D:\Lasalle College\PunchInOutApp\PunchInOutApp\obj\Debug\PunchInOutApp.pdb
+D:\Lasalle College\PunchInOutApp\PunchInOutApp\obj\Debug\PunchInOutApp.PunchCard.resources
